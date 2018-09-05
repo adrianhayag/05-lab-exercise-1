@@ -23,10 +23,11 @@
         android:textSize="18dp"/>
 
     <Spinner
-        android:id="@+id/spnr"
+        android:id="@+id/spinner1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
+        android:spinnerMode="dropdown"
         android:layout_alignParentRight="true">
     </Spinner>
 
